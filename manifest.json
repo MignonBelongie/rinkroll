@@ -4,14 +4,14 @@
   "manifest_version": 1,
   "author": "Owlbear Rodeo",
   "homepage_url": "https://extensions.owlbear.rodeo/dice",
-  "icon": "/logo.png",
+  "icon": "/rinkroll/logo.png",
   "description": "Beautiful 3D dice extension for d20 based systems",
   "action": {
-    "title": "Dice",
-    "icon": "/icon.svg",
-    "popover": "/",
+    "title": "Rink Roll",
+    "icon": "/rinkroll/icon.svg",
+    "popover": "/rinkroll/",
     "height": 700,
     "width": 375
   },
-  "background_url": "/background.html"
+  "background_url": "/rinkroll/background.html"
 }
