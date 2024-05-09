@@ -4,8 +4,8 @@
   "manifest_version": 1,
   "action": {
     "title": "Hello, World!",
-    "icon": "/icon.svg",
-    "popover": "/",
+    "icon": "/rinkroll/icon.svg",
+    "popover": "/rinkroll/",
     "height": 600,
     "width": 400
   }
